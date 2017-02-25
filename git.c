@@ -7,5 +7,5 @@ int main(int argc, char *argv[]) {
 	
 	printf("Toto je iba test pre Git\n");
 	
-	return 0;
+	return 1;
 }
